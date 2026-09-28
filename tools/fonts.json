@@ -1,0 +1,6 @@
+[
+ {"file":"n95_time.ttf","family":"NineFive Time","style":"Black","src":"$STENCIL_SRC","axes":{"wght":900,"opsz":72},"chars":"0123456789: "},
+ {"file":"n95_time_light.ttf","family":"NineFive Time","style":"Light","src":"$STENCIL_SRC","axes":{"wght":300,"opsz":72},"chars":"0123456789: "},
+ {"file":"n95_label.ttf","family":"NineFive Label","style":"Bold","src":"$SHOULDERS_SRC","axes":{"wght":750,"opsz":24},"chars":"ABCDEFGHIJKLMNOPQRSTUVWXYZÁÉÍÓÚÑÜ0123456789 :-–·.,!¡%"},
+ {"file":"n95_digit.ttf","family":"NineFive Digit","style":"Black","src":"$STENCIL_SRC","axes":{"wght":850,"opsz":36},"chars":"0123456789"}
+]

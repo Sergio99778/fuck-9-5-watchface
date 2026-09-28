@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="watch_face_name">FUCK 9-5</string>
+    <string name="spray_label">Color del spray</string>
+    <string name="boss_label">Modo jefe (F*CK)</string>
+    <string name="spray_rojo">Rojo</string>
+    <string name="spray_rosa">Rosa neón</string>
+    <string name="spray_verde">Verde neón</string>
+    <string name="spray_amarillo">Amarillo</string>
+    <string name="spray_naranja">Naranja</string>
+    <string name="spray_blanco">Blanco</string>
+</resources>
